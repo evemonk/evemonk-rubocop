@@ -6,3 +6,7 @@ Bundler/OrderedGems:
 
 Gemspec/OrderedDependencies:
   Enabled: false
+
+Style/SymbolArray:
+  Enabled: true
+  EnforcedStyle: brackets
