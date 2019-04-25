@@ -2,7 +2,7 @@
 
 output = `bundle exec rubocop`
 
-expected = '13 files inspected, 10 offenses detected'
+expected = '14 files inspected, 11 offenses detected'
 
 actual = output.split("\n").last
 
