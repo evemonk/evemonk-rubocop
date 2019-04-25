@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 output = `bundle exec rubocop`
 
 expected = '1 file inspected, 1 offense detected'
