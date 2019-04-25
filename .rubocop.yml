@@ -1,3 +1,6 @@
+AllCops:
+  DisplayStyleGuide: true
+
 Bundler/OrderedGems:
   Enabled: false
 
