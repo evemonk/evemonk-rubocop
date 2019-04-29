@@ -23,3 +23,6 @@ Style/WordArray:
 Layout/SpaceInsideStringInterpolation:
   EnforcedStyle: space
   Enabled: true
+
+Metrics/LineLength:
+  Enabled: false
