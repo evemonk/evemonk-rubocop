@@ -2,6 +2,7 @@ require: rubocop-performance
 
 inherit_from:
   - .rubocop_local.yml
+  - .rubocop_todo.yml
 
 AllCops:
   DisplayStyleGuide: true
