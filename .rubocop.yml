@@ -51,4 +51,5 @@ RSpec/ExpectInHook:
   Enabled: false
 
 RSpec/MessageSpies:
-  Enabled: false
+  Enabled: true
+  EnforcedStyle: receive
